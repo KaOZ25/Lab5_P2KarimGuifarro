@@ -12,8 +12,8 @@ import java.util.ArrayList;
  * @author Karim Ozael
  */
 public class Alumno extends Persona{
-    private int num_cuenta,cant_clases,año;
-    private ArrayList <Evaluacion> prueba=new ArrayList();
+     int num_cuenta,cant_clases,año;
+     ArrayList <Evaluacion> prueba=new ArrayList();
     public Alumno() {
     }
 
